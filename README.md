@@ -1,26 +1,13 @@
-## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=BaranYucecengiz&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Badges
-![MultiLanguage](https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-9cf)
-![Experience](https://img.shields.io/badge/Experience-Expert%20Dev-30pt)
-![Repositories](https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator-32pt)
-![Followers](https://img.shields.io/badge/Followers-Dynamic%20User-24pt)
-![Stars](https://img.shields.io/badge/Stars-Middle%20Star-25pt)
-![Commits](https://img.shields.io/badge/Commits-Middle%20Committer-42pt)
-![Issues](https://img.shields.io/badge/Issues-First%20Issue-2pt)
-![PullRequests](https://img.shields.io/badge/PullRequests-First%20Pull-1pt)
-
-<!--
-**BaranYucecengiz/BaranYucecengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-9cf" alt="MultiLanguage">
+  <img src="https://img.shields.io/badge/Experience-Expert%20Dev-30pt" alt="Experience">
+  <img src="https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator-32pt" alt="Repositories">
+  <img src="https://img.shields.io/badge/Followers-Dynamic%20User-24pt" alt="Followers">
+  <img src="https://img.shields.io/badge/Stars-Middle%20Star-25pt" alt="Stars">
+  <img src="https://img.shields.io/badge/Commits-Middle%20Committer-42pt" alt="Commits">
+  <img src="https://img.shields.io/badge/Issues-First%20Issue-2pt" alt="Issues">
+  <img src="https://img.shields.io/badge/PullRequests-First%20Pull-1pt" alt="PullRequests">
+</p>
