@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## Badges
+![MultiLanguage](https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-9cf)
+![Experience](https://img.shields.io/badge/Experience-Expert%20Dev-30pt)
+![Repositories](https://img.shields.io/badge/Repositories-Hyper%20Repo%20Creator-32pt)
+![Followers](https://img.shields.io/badge/Followers-Dynamic%20User-24pt)
+![Stars](https://img.shields.io/badge/Stars-Middle%20Star-25pt)
+![Commits](https://img.shields.io/badge/Commits-Middle%20Committer-42pt)
+![Issues](https://img.shields.io/badge/Issues-First%20Issue-2pt)
+![PullRequests](https://img.shields.io/badge/PullRequests-First%20Pull-1pt)
+
 <!--
 **BaranYucecengiz/BaranYucecengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
